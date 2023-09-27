@@ -1,6 +1,6 @@
 # SmartCalc v2.0
 
-![demonstration](misc/SmartCalc.gif)
+<img src="misc/SmartCalc.gif" width="450" height="627"/>
 
 ## Dependencies
 
